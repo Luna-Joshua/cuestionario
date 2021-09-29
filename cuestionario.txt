@@ -1,1 +1,9 @@
 Cuestionario
+
+  En tus palabras, ¿Qué es internet?
+
+  ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+
+  Describe los protocolos que existen en internet, en específico HTTP y HTML
+
+  En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
