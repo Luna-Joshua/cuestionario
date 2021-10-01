@@ -8,6 +8,9 @@ Cuestionario
      por una serie mundial de cables que estan conectados mundialmete unos con otros que facilitan la comunicacion o busqueda de lo que requieres.
 
   2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+    R= La prpagación de Internet se manega por bits, una señal de si o no, encendido o apagado, etc. El medio de propagación del internet fue cambiando con el tiempo. Actualmente viaja
+    por tres medios: La electricidad, lus y radio-ondas. Los bits por electricidad se manejan en 1 y 0; 1 es electricidad y cero es no electricidad; sin electricidad no hay luz 
+     
 
   3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
      R= El interten es una red de redes que conecta billones de dispositivos a travez de wifi y este se conecta a un servidor de internet o ISP y ISP 
