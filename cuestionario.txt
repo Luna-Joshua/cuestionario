@@ -3,23 +3,44 @@ Emiliano Martinez Martinez y Joshua Luna -4F-
 Cuestionario
 
   1. En tus palabras, ¿Qué es internet? 
-     R= Para mi son una serie de Redes operada que se conectan a travez de mallas que se interlazan una con la otra que posterirormente viajan a un servidor que manda esas señales que llamamos paquetes con codigo binario, estas viajan a travez de ondas electromagneticas por una serie mundial de cables que estan conectados mundialmete unos con otros que facilitan la comunicacion o busqueda de lo que requieres.
+     R= Para mi son una serie de Redes operada que se conectan a travez de mallas que se interlazan una con la otra que posterirormente 
+     viajan a un servidor que manda esas señales que llamamos paquetes con codigo binario, estas viajan a travez de ondas electromagneticas 
+     por una serie mundial de cables que estan conectados mundialmete unos con otros que facilitan la comunicacion o busqueda de lo que requieres.
 
   2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 
   3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-     R= El interten es una red de redes que conecta billones de dispositivos a travez de wifi y este se conecta a un servidor de internet o ISP y ISP te conecta a billones se dispositivos de todo el mundo a través de cientos de millones de redes que estan conectadas. Todos los dispositivos tiene direcciones unicas que son una serie de numeros que tienen que ver con un protocolo de seguridad llamado IP que como ya vimos es la direccion de tu dispositivo. Cada numero del IP esta representado en bits y cada IP esta compuesta por 32 bits es decir un IP tiene 4 secciones que cada una de estas tiene 8 bits. El DNS asocia nombres con lasdirecciones correspondientes, las computadoras usa el DNS para buscar nombres principales y obtener la direccion IP asociada para conectarte a tu computadora a donde quieres navegar en el internet.
+     R= El interten es una red de redes que conecta billones de dispositivos a travez de wifi y este se conecta a un servidor de internet o ISP y ISP 
+     te conecta a billones se dispositivos de todo el mundo a través de cientos de millones de redes que estan conectadas. Todos los dispositivos tiene 
+     direcciones unicas que son una serie de numeros que tienen que ver con un protocolo de seguridad llamado IP que como ya vimos es la direccion de tu 
+     dispositivo. Cada numero del IP esta representado en bits y cada IP esta compuesta por 32 bits es decir un IP tiene 4 secciones que cada una de estas tiene 8 bits. 
+     El DNS asocia nombres con lasdirecciones correspondientes, las computadoras usa el DNS para buscar nombres principales y obtener la direccion IP asociada para conectarte 
+     a tu computadora a donde quieres navegar en el internet.
 
   4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 
   5. Describe los protocolos que existen en internet, en específico HTTP y HTML
-     R= Los protocolos son dificiles ya que te ayudan a saber desde como puedes saber la direccion IP  y se conecta a los DNS que posteriormenten se conecta a un servidor que sin imporatr que este muy lejos de ti en cuestion de milisegundos tu computadora le pregunta al servidor la pagina web que estas buscabndo y el servidor le responde a tu compu con un lenguaje que es llamado HTTP que es cuando tu compuadora le pide a otra computadora el documento y cuando quieres interceptar entre tu ordenador y un sitiio web en internet se hace con algo llamado peticion get request por ejemplo cuando te quieres registrar en una red social madas un mensaje por asi decirlo a la red con la palabra get y el nombre de documento que quieres. despues que llega tu peticion al servidor este te respinde con un HTML y es lenguaje que utilizas en tu navegador para decrile a tu navegador como presentar una pagina 
+     R= Los protocolos son dificiles ya que te ayudan a saber desde como puedes saber la direccion IP  y se conecta a los DNS que posteriormenten se conecta 
+     a un servidor que sin imporatr que este muy lejos de ti en cuestion de milisegundos tu computadora le pregunta al servidor la pagina web que estas buscabndo 
+     y el servidor le responde a tu compu con un lenguaje que es llamado HTTP que es cuando tu compuadora le pide a otra computadora el documento y cuando quieres 
+     interceptar entre tu ordenador y un sitiio web en internet se hace con algo llamado peticion get request por ejemplo cuando te quieres registrar en una red social 
+     madas un mensaje por asi decirlo a la red con la palabra get y el nombre de documento que quieres. despues que llega tu peticion al servidor este te respinde con un 
+     HTML y es lenguaje que utilizas en tu navegador para decrile a tu navegador como presentar una pagina 
 
   6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. 
   
   7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-   R= En el video aprendi en como los hackers trabajna a travez de viruz, ataques de negacion de servicios y phshing los cuales a travez de estos medios pueden robarte informacion personal como tambien pueden tener a acceso a tu situacion economica e incluso duplicar estas para robarte tu dinero. Parendi a como un viruz se puede instalar por desciones malas que tomas en la web generalmente descarhando archivos, apps, etc... 
-      El vide me fue de gran ayuda ya que te explican como poder detectar cuando estamos navegand en una pagina web segura ya que te aparece un candado sellado a lado de la direccion de la pagina tambien conoci como estos pueden operar a travez de cuando instalas un app que incluso les das permiso de instalarce con un software infectado ya que no sabes que esto que puede instalrce es un viruz incluso con descargas de actualizaciones pueden accesar a tu equipo. 
-      El video me dio a conocer una serie de consejos para navegar seguro en internet 1. Usa contraselas fuertes 2. Checa que la pagina web en la que navegas este autenticada 3. Instala sistemas de seguridad confiables y seguido 4. No descargues softwares en los que no confias.
+   R= En el video aprendi en como los hackers trabajna a travez de viruz, ataques de negacion de servicios y phshing los cuales a travez de estos medios pueden robarte 
+   informacion personal como tambien pueden tener a acceso a tu situacion economica e incluso duplicar estas para robarte tu dinero. 
+   Parendi a como un viruz se puede instalar por desciones malas que tomas en la web generalmente descarhando archivos, apps, etc... 
+   El vide me fue de gran ayuda ya que te explican como poder detectar cuando estamos navegand en una pagina web segura ya que te aparece 
+   un candado sellado a lado de la direccion de la pagina tambien conoci como estos pueden operar a travez de cuando instalas un app que incluso 
+   les das permiso de instalarce con un software infectado ya que no sabes que esto que puede instalrce es un viruz incluso con descargas de actualizaciones 
+   pueden accesar a tu equipo. 
+   El video me dio a conocer una serie de consejos para navegar seguro en internet 
+   1. Usa contraselas fuertes 
+   2. Checa que la pagina web en la que navegas este autenticada 
+   3. Instala sistemas de seguridad confiables y seguido 
+   4. No descargues softwares en los que no confias.
 
   8. ¿Cómo funciona la búsqueda de google? 
