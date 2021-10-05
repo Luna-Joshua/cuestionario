@@ -9,8 +9,10 @@ Cuestionario
 
   2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
     R= La prpagación de Internet se manega por bits, una señal de si o no, encendido o apagado, etc. El medio de propagación del internet fue cambiando con el tiempo. Actualmente viaja
-    por tres medios: La electricidad, lus y radio-ondas. Los bits por electricidad se manejan en 1 y 0; 1 es electricidad y cero es no electricidad; sin electricidad no hay luz 
-     
+    por tres medios: La electricidad, lus y radio-ondas. Los bits por electricidad se manejan en 1 y 0; 1 es electricidad y cero es no electricidad; sin electricidad no hay luz. 
+    Los bits tienen un tiempo base orden entre 1s y 0s que es tan rápido que tu no podrías captura la información, por eso hay una máquina que lo hace por ti gracias a su gran capacidad y un cable ethernet.
+    Por luz existen cables de fibra óptica que conectan con todo el mundo, y en los mares y océanos se instalan cables grandícimos que conecten con todos los continetes y por ahí viajan los bits en este caso.
+    Por medio de radio es una manera sin cables, esto sería pos máquinas de bits inalámbricas usando señales de radio-frecuencias convirtiendose en sistema binario 
 
   3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
      R= El interten es una red de redes que conecta billones de dispositivos a travez de wifi y este se conecta a un servidor de internet o ISP y ISP 
@@ -21,6 +23,10 @@ Cuestionario
      a tu computadora a donde quieres navegar en el internet.
 
   4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+     R= Los datos o la canción no se envián directamente del servidor a tu computadora pues se saturaría la red, por eso, en lugar de solo uno, existen varios caminos 
+     que puede tomar tu canción hasta llegar a su destino, esto te lo garantizan los routers ya que ellos se encargan de dirigirlos hacía ahí, se envía en forma de varios paquetes
+     para que su transportación pueda realizarse, esto aldividirse en varias partes formando varios paquetes así como en Amazon; antes de que puedas visualizar tu canción existe TCP, 
+     que encargará de garantizar que todo este en orden al verificar que cada uno de los paquetes llege.
 
   5. Describe los protocolos que existen en internet, en específico HTTP y HTML
      R= Los protocolos son dificiles ya que te ayudan a saber desde como puedes saber la direccion IP  y se conecta a los DNS que posteriormenten se conecta 
@@ -31,7 +37,17 @@ Cuestionario
      HTML y es lenguaje que utilizas en tu navegador para decrile a tu navegador como presentar una pagina 
 
   6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. 
-  
+     R= Empezaré explicando el metodo de Cesar. Cesar desarrollo un algoritmo entre el abecedario y los números, que consistia en formar tu palabra pero cada letra se canviaría
+     las veces que tu pusieras a otra letra del abecedario, por ejemplo Hi, para modificarla se moverá tres espacios hacia adelante cada letra y esto nos daría kl, que le permitía 
+     a Cesar poder enviar un mensaje seguro sin la preocupación de que un enemigo lo encontrara pues no lo podría leer y a ese número que modificó las letras se le denominaría 
+     como llave. Actualmente estas llaves funcionan pero de una forma un poco más complicada; habrá llaves generalmente de más de 600 números seguidos que funicionaria cada número 
+     por letra y al llegar al último número, se repetiría la secuencia, y todo ese conjunto de números sería solamente una llave; este tamaño de llave tan grande porque las computadoras de 
+     hoy en día pueden resolver códigos bastante fácil, entonces tiene que ser algo muy complicado que le tome tiempo de decifrar y solamente el que tenga acceso a esa llave por medio de
+     su computadora, podrá decifrar el código.
+      Una llave pública funciona de la siguiente manera: al momento de que te mandan un correo electrónico con tan solo tener tu correo te puede llegar un mensaje
+     de esa persona pero solamente tu puedes ver el mensaje y nadie más(mas que el que te mando el mensaje pues el lo escribió) entonces podríamos decir que el acceso para dejarte o mandarte un mensaje 
+     es público, o sea, la llave para accesar es pública pues cualquiera la podría tomar, pero, el mensaje que dejan se ocnvierte en un mensaje secreto, que sería, una llave privadaque solamente tu tendrías el acceso de ella.
+
   7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
    R= En el video aprendi en como los hackers trabajna a travez de viruz, ataques de negacion de servicios y phshing los cuales a travez de estos medios pueden robarte 
    informacion personal como tambien pueden tener a acceso a tu situacion economica e incluso duplicar estas para robarte tu dinero. 
@@ -46,4 +62,11 @@ Cuestionario
    3. Instala sistemas de seguridad confiables y seguido 
    4. No descargues softwares en los que no confias.
 
-  8. ¿Cómo funciona la búsqueda de google? 
+  8. ¿Cómo funciona la búsqueda de google?
+    R= Para convertir tu busqueda en una respuesta el navegador no se pone a investigar ni ver que página tiene tu respues, pues lo que hace es que cada información de páginas 
+    las va registrando y capturando la iinformación para que cuando tu busques, inmediatamente teproporcione la página ya registrada con tu respuesta. Funcionan con un programa llamado "araña" con el que recolectan 
+    información sobre las páginas y al encontrarse con un hipervínculo lo sigue hasta qie visita cada página que pueda encontrar en internet y la "araña" va grabando toda la información que pudiera necesitar 
+    para alguna búsqueda y la añade a una base de datos que se llama índice de búsqueda. Al momento de buscar algo el navegador busca en todo ese índice de datos las palabras relacionadas con las páginas para obtener una 
+    lisa de las páginas de internet que contengan esas palabras. Cada buscador tiene su propio algoritmo que puede ver que se las palabras que buscas se encuentren en el título, también viendo si están juntas o separadas, etc. Haciendo un análisis de todo. Google creó el algoritmo 
+    más efectivo de todos, que funciona clasificando o opinando de las mejors páginas relacionadas  con lo que buscaste, se puede decir, las más populares, pero no siempre serán confiables,
+    eso ya dependerá de ti para verificar si son seguras.
