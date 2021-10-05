@@ -5,14 +5,14 @@ Cuestionario
   1. En tus palabras, ¿Qué es internet? 
      R= Para mi son una serie de Redes operada que se conectan a travez de mallas que se interlazan una con la otra que posterirormente 
      viajan a un servidor que manda esas señales que llamamos paquetes con codigo binario, estas viajan a travez de ondas electromagneticas 
-     por una serie mundial de cables que estan conectados mundialmete unos con otros que facilitan la comunicacion o busqueda de lo que requieres.
+     por una serie mundial de cables que estan conectados mundialmete unos con otros que facilitan la comunicacion o busqueda de lo que requieres. <!-- ---- 5oct | @SRTP: ok ----  -->
 
   2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
     R= La prpagación de Internet se manega por bits, una señal de si o no, encendido o apagado, etc. El medio de propagación del internet fue cambiando con el tiempo. Actualmente viaja
     por tres medios: La electricidad, lus y radio-ondas. Los bits por electricidad se manejan en 1 y 0; 1 es electricidad y cero es no electricidad; sin electricidad no hay luz. 
     Los bits tienen un tiempo base orden entre 1s y 0s que es tan rápido que tu no podrías captura la información, por eso hay una máquina que lo hace por ti gracias a su gran capacidad y un cable ethernet.
     Por luz existen cables de fibra óptica que conectan con todo el mundo, y en los mares y océanos se instalan cables grandícimos que conecten con todos los continetes y por ahí viajan los bits en este caso.
-    Por medio de radio es una manera sin cables, esto sería pos máquinas de bits inalámbricas usando señales de radio-frecuencias convirtiendose en sistema binario 
+    Por medio de radio es una manera sin cables, esto sería pos máquinas de bits inalámbricas usando señales de radio-frecuencias convirtiendose en sistema binario  <!-- ---- 5oct | @SRTP: ok ----  -->
 
   3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
      R= El interten es una red de redes que conecta billones de dispositivos a travez de wifi y este se conecta a un servidor de internet o ISP y ISP 
@@ -20,13 +20,13 @@ Cuestionario
      direcciones unicas que son una serie de numeros que tienen que ver con un protocolo de seguridad llamado IP que como ya vimos es la direccion de tu 
      dispositivo. Cada numero del IP esta representado en bits y cada IP esta compuesta por 32 bits es decir un IP tiene 4 secciones que cada una de estas tiene 8 bits. 
      El DNS asocia nombres con lasdirecciones correspondientes, las computadoras usa el DNS para buscar nombres principales y obtener la direccion IP asociada para conectarte 
-     a tu computadora a donde quieres navegar en el internet.
+     a tu computadora a donde quieres navegar en el internet. <!-- ---- 5oct | @SRTP: ok ----  -->
 
   4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
      R= Los datos o la canción no se envián directamente del servidor a tu computadora pues se saturaría la red, por eso, en lugar de solo uno, existen varios caminos 
      que puede tomar tu canción hasta llegar a su destino, esto te lo garantizan los routers ya que ellos se encargan de dirigirlos hacía ahí, se envía en forma de varios paquetes
      para que su transportación pueda realizarse, esto aldividirse en varias partes formando varios paquetes así como en Amazon; antes de que puedas visualizar tu canción existe TCP, 
-     que encargará de garantizar que todo este en orden al verificar que cada uno de los paquetes llege.
+     que encargará de garantizar que todo este en orden al verificar que cada uno de los paquetes llege. <!-- ---- 5oct | @SRTP: ok ----  -->
 
   5. Describe los protocolos que existen en internet, en específico HTTP y HTML
      R= Los protocolos son dificiles ya que te ayudan a saber desde como puedes saber la direccion IP  y se conecta a los DNS que posteriormenten se conecta 
@@ -34,7 +34,7 @@ Cuestionario
      y el servidor le responde a tu compu con un lenguaje que es llamado HTTP que es cuando tu compuadora le pide a otra computadora el documento y cuando quieres 
      interceptar entre tu ordenador y un sitiio web en internet se hace con algo llamado peticion get request por ejemplo cuando te quieres registrar en una red social 
      madas un mensaje por asi decirlo a la red con la palabra get y el nombre de documento que quieres. despues que llega tu peticion al servidor este te respinde con un 
-     HTML y es lenguaje que utilizas en tu navegador para decrile a tu navegador como presentar una pagina 
+     HTML y es lenguaje que utilizas en tu navegador para decrile a tu navegador como presentar una pagina  <!-- ---- 5oct | @SRTP: ok ----  -->
 
   6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. 
      R= Empezaré explicando el metodo de Cesar. Cesar desarrollo un algoritmo entre el abecedario y los números, que consistia en formar tu palabra pero cada letra se canviaría
@@ -46,7 +46,7 @@ Cuestionario
      su computadora, podrá decifrar el código.
       Una llave pública funciona de la siguiente manera: al momento de que te mandan un correo electrónico con tan solo tener tu correo te puede llegar un mensaje
      de esa persona pero solamente tu puedes ver el mensaje y nadie más(mas que el que te mando el mensaje pues el lo escribió) entonces podríamos decir que el acceso para dejarte o mandarte un mensaje 
-     es público, o sea, la llave para accesar es pública pues cualquiera la podría tomar, pero, el mensaje que dejan se ocnvierte en un mensaje secreto, que sería, una llave privadaque solamente tu tendrías el acceso de ella.
+     es público, o sea, la llave para accesar es pública pues cualquiera la podría tomar, pero, el mensaje que dejan se ocnvierte en un mensaje secreto, que sería, una llave privadaque solamente tu tendrías el acceso de ella. <!-- ---- 5oct | @SRTP: ok ----  -->
 
   7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
    R= En el video aprendi en como los hackers trabajna a travez de viruz, ataques de negacion de servicios y phshing los cuales a travez de estos medios pueden robarte 
@@ -60,7 +60,7 @@ Cuestionario
    1. Usa contraselas fuertes 
    2. Checa que la pagina web en la que navegas este autenticada 
    3. Instala sistemas de seguridad confiables y seguido 
-   4. No descargues softwares en los que no confias.
+   4. No descargues softwares en los que no confias. <!-- ---- 5oct | @SRTP: ok ----  -->
 
   8. ¿Cómo funciona la búsqueda de google?
     R= Para convertir tu busqueda en una respuesta el navegador no se pone a investigar ni ver que página tiene tu respues, pues lo que hace es que cada información de páginas 
@@ -69,4 +69,4 @@ Cuestionario
     para alguna búsqueda y la añade a una base de datos que se llama índice de búsqueda. Al momento de buscar algo el navegador busca en todo ese índice de datos las palabras relacionadas con las páginas para obtener una 
     lisa de las páginas de internet que contengan esas palabras. Cada buscador tiene su propio algoritmo que puede ver que se las palabras que buscas se encuentren en el título, también viendo si están juntas o separadas, etc. Haciendo un análisis de todo. Google creó el algoritmo 
     más efectivo de todos, que funciona clasificando o opinando de las mejors páginas relacionadas  con lo que buscaste, se puede decir, las más populares, pero no siempre serán confiables,
-    eso ya dependerá de ti para verificar si son seguras.
+    eso ya dependerá de ti para verificar si son seguras. <!-- ---- 5oct | @SRTP: ok ----  -->
